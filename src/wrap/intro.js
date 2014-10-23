@@ -1,4 +1,4 @@
 (function(define){
 "use strict";
-define([], function(){
+define(['jquery'], function($){
 	

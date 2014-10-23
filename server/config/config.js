@@ -8,7 +8,7 @@ module.exports={
 		timespan:6000,
 	},
 	//path:dir.join('\\'),
-	static:path.join(__dirname,'../client'),
+	static:path.join(__dirname,'../../'),
 	service:{
 		path:path.join(__dirname,'../service'),
 	},
