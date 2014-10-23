@@ -3,9 +3,35 @@ define([
 	'core/mediator',
 ], function($) {
 	
-	$.fn.superTable='';
 	
-	console.log($('*'));
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 });

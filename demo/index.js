@@ -1,4 +1,11 @@
-require(['$','superTable'],function($){
+require(['jquery','../demo/tree','../demo/table'],function($){
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
